@@ -7,11 +7,12 @@
 }
 .center {
   text-align: center;
-  display: block;
+  display: flex;
   position: fixed;
   top: 0;
   width: 100%;
   z-index: 1000;
+  margin: auto;
 }
 .pd {
   padding: 20px;
@@ -45,14 +46,16 @@
 
 .gr {
   display: grid;
-  grid-template-columns: 300px 300px 150px 150px 225px;
-  max-width: 80rem;
-  margin: auto;
+  grid-template-columns: 300px 300px 150px 150px;
 }
 input[type="date"] {
   width: 100%;
 }
-
+input[type="number"]::-webkit-inner-spin-button,
+input[type="number"]::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
 input {
   width: 50%;
   padding: 12px 20px;

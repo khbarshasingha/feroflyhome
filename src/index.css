@@ -26,3 +26,7 @@ code {
   width: 100px;
   padding: 50px;
 }
+.flexb {
+  display: flex;
+  flex-direction: column;
+}

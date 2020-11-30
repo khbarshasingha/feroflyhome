@@ -2,7 +2,7 @@ import React from "react";
 
 const Gallery = () => {
   return (
-    <div class="tc ph7">
+    <div id="Gallery" class="tc ph7">
       <h1 class=" f2 f2-m f1-l mt5 fw1 black-70 mv3">GALLERY</h1>
       <div class="container">
         <div class="box">

@@ -2,7 +2,7 @@ import React from "react";
 
 const Bookroom = () => {
   return (
-    <div class="outercard ">
+    <div id="Bookroom" class="outercard ">
       <div class="innercard i">
         <h1>OUR ROOMS</h1>
         <br />

@@ -11,11 +11,19 @@ function App() {
   return (
     <div>
       <Navbar />
-      <Header />
-      <Homepage />
-      <About />
+      <div id="home">
+        <Header />
+        <Homepage />
+      </div>
+
+      <div id="About">
+        <About />
+      </div>
+
       <Bookroom />
-      <Gallery />
+      <div id="Gallery">
+        <Gallery />
+      </div>
     </div>
   );
 }
