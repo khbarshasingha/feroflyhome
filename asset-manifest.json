@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/feroflyhome/static/css/main.53636738.chunk.css",
+    "main.js": "/feroflyhome/static/js/main.dfda0324.chunk.js",
+    "main.js.map": "/feroflyhome/static/js/main.dfda0324.chunk.js.map",
+    "runtime-main.js": "/feroflyhome/static/js/runtime-main.3e80718b.js",
+    "runtime-main.js.map": "/feroflyhome/static/js/runtime-main.3e80718b.js.map",
+    "static/js/2.f4187d15.chunk.js": "/feroflyhome/static/js/2.f4187d15.chunk.js",
+    "static/js/2.f4187d15.chunk.js.map": "/feroflyhome/static/js/2.f4187d15.chunk.js.map",
+    "static/js/3.b5f9caac.chunk.js": "/feroflyhome/static/js/3.b5f9caac.chunk.js",
+    "static/js/3.b5f9caac.chunk.js.map": "/feroflyhome/static/js/3.b5f9caac.chunk.js.map",
+    "index.html": "/feroflyhome/index.html",
+    "static/css/main.53636738.chunk.css.map": "/feroflyhome/static/css/main.53636738.chunk.css.map",
+    "static/js/2.f4187d15.chunk.js.LICENSE.txt": "/feroflyhome/static/js/2.f4187d15.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/feroflyhome/static/media/bookroom.0b7416c5.jpg",
+    "static/media/logo.6ce24c58.svg": "/feroflyhome/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3e80718b.js",
+    "static/js/2.f4187d15.chunk.js",
+    "static/css/main.53636738.chunk.css",
+    "static/js/main.dfda0324.chunk.js"
+  ]
+}
